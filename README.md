@@ -48,6 +48,8 @@ _链接_： `http://127.0.0.1:8080/druid/index.html`
 
 用户名：zyd-druid  密码：zyd-druid
 
+#### 注意
+系统图片目录：docs/img
 
 #### 参与贡献
 
